@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "21160ceab08f8704",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0d1f9cacfa2b208",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "作業記録/文書保管期間調査.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e50f985ade2c83c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "04d60993028ecc63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465aa7d110d838c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eb3807ba21354f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#不要ショートカット調査",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aaf4f93932553f25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e52a13b6df94ac5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64d44a1ba32fa894",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcfc36054b26bb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c7842303a389ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "作業記録/文書保管期間調査.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51dd87e2c1b41ffd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27b02c78f635aff6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "作業記録/文書保管期間調査.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "465aa7d110d838c5",
+  "lastOpenFiles": [
+    "daily/2022-10-14.md",
+    "作業記録/ファイルサーバー利用標準化検討.md",
+    "作業記録/サーバー関係引継ぎ資料まとめ.md",
+    "作業記録/不具合 ファイルサーバー勝手に再起動.md",
+    "作業記録/不具合一覧.md",
+    "作業記録/不要ショートカット調査&削除.md",
+    "daily/2022-10-13.md",
+    "2021-05-10.md",
+    "A.md",
+    "B.md"
+  ]
+}

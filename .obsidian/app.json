@@ -1,4 +1,19 @@
 {
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "promptDelete": false,
   "showLineNumber": true,
-  "showUnsupportedFiles": true
+  "attachmentFolderPath": "files",
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "foldIndent": true
 }
