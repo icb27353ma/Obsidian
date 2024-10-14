@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-10-11.md",
+                "file": "daily/2024-10-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-10-11.md",
+                "file": "daily/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-10-11.md",
+                "file": "daily/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-10-11.md"
+                "file": "daily/2024-10-14.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "f59110ddf2f7949a",
   "lastOpenFiles": [
+    "2024-10-11.md",
+    "daily/2024-10-14.md",
     "daily/2024-10-11.md",
     "daily/2024-10-09.md",
     "Obsidian-サンプル/サンプル mermaid-sequenceDiagram.md",
@@ -204,8 +206,6 @@
     "daily/2024-01-17.md",
     "daily/2024-01-16.md",
     "daily/2024-01-15.md",
-    "daily/2024-01-12.md",
-    "daily/2024-01-10.md",
     "無題のファイル 2.canvas",
     "無題のファイル 1.canvas",
     "時間活用",
