@@ -172,7 +172,8 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "markdown-importer:Markdownインポーターを開く": false
+      "markdown-importer:Markdownインポーターを開く": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f59110ddf2f7949a",
