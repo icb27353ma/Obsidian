@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-10-15.md",
+                "file": "daily/2024-10-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-10-15.md",
+                "file": "daily/2024-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-10-15.md",
+                "file": "daily/2024-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-10-15.md"
+                "file": "daily/2024-10-25.md"
               }
             }
           },
@@ -172,14 +172,14 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "markdown-importer:Markdownインポーターを開く": false,
-      "obsidian-git:Open Git source control": false
+      "markdown-importer:Markdownインポーターを開く": false
     }
   },
   "active": "f59110ddf2f7949a",
   "lastOpenFiles": [
-    "daily/2024-10-14.md",
     "daily/2024-10-15.md",
+    "daily/2024-10-25.md",
+    "daily/2024-10-14.md",
     "2024-10-11.md",
     "daily/2024-10-11.md",
     "daily/2024-10-09.md",
@@ -206,7 +206,6 @@
     "daily/2024-01-22.md",
     "daily/2024-01-19.md",
     "daily/2024-01-17.md",
-    "daily/2024-01-16.md",
     "無題のファイル 2.canvas",
     "無題のファイル 1.canvas",
     "時間活用",
