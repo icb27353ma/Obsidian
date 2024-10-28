@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf1f8520caa854dc",
+        "id": "1562d394f6da962c",
         "type": "tabs",
         "children": [
           {
-            "id": "ed7bcbfbdaeae69a",
+            "id": "7279877a8b146d06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-10-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-28"
+              "title": "新規タブ"
             }
           }
         ]
@@ -193,12 +188,12 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "ed7bcbfbdaeae69a",
+  "active": "465aa7d110d838c5",
   "lastOpenFiles": [
-    "pc2f13064/DRIVE_C/Python/試作/2024.md",
-    "daily/2024-10-28.md",
-    "フォークリフト運行計画表作成確認.md",
     "daily/2024-10-25.md",
+    "daily/2024-10-28.md",
+    "pc2f13064/DRIVE_C/Python/試作/2024.md",
+    "フォークリフト運行計画表作成確認.md",
     "pc2f13064/DRIVE_C/Python/試作",
     "pc2f13064/DRIVE_C/Python",
     "pc2f13064/DRIVE_C",
