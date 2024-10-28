@@ -144,11 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2024-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "2024-10-28からのアウトゴーイングリンク"
             }
           },
           {
