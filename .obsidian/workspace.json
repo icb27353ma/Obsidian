@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bf1f8520caa854dc",
+        "id": "ff314670f9399d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "ed7bcbfbdaeae69a",
+            "id": "ef40da1172363411",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-11.md",
+                "file": "daily/2024-10-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-11"
+              "title": "2024-10-30"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-11.md",
+                "file": "daily/2024-10-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2024-10-11へのバックリンク"
+              "title": "2024-10-30へのバックリンク"
             }
           },
           {
@@ -193,10 +193,12 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "ed7bcbfbdaeae69a",
+  "active": "ef40da1172363411",
   "lastOpenFiles": [
-    "2024-08-08.md",
+    "daily/2024-10-30.md",
     "daily/2024-10-29.md",
+    "2024-10-11.md",
+    "2024-08-08.md",
     "daily/2024-10-28.md",
     "template/daily.md",
     "Welcome.md",
@@ -219,8 +221,6 @@
     "pc2f13064/DRIVE_C/Python/試作/2024.md",
     "Obsidian-サンプル/サンプル mermaid-sequenceDiagram.md",
     "2024-08-09.md",
-    "conflict-files-obsidian-git.md",
-    "2024-10-28 2201.md",
     "pc2f13064/DRIVE_C/Python/試作",
     "pc2f13064/DRIVE_C/Python",
     "pc2f13064/DRIVE_C",
