@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UpNote_2024-10-29_14-13-50/RPA進捗管理.md",
+                "file": "RPA進捗管理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UpNote_2024-10-29_14-13-50/RPA進捗管理.md",
+                "file": "RPA進捗管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "ed7bcbfbdaeae69a",
+  "active": "465aa7d110d838c5",
   "lastOpenFiles": [
     "daily/2024-10-29.md",
     "conflict-files-obsidian-git.md",
