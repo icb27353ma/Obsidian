@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-28 2201.md",
+                "file": "daily/2024-10-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-28 2201"
+              "title": "2024-10-30"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-28 2201.md",
+                "file": "daily/2024-10-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2024-10-28 2201へのバックリンク"
+              "title": "2024-10-30へのバックリンク"
             }
           },
           {
@@ -195,8 +195,9 @@
   },
   "active": "9b78544485a26997",
   "lastOpenFiles": [
-    "daily/2024-10-28.md",
     "2024-10-28 2201.md",
+    "daily/2024-10-30.md",
+    "daily/2024-10-28.md",
     "daily/2024-10-25.md",
     "pc2f13064/DRIVE_C/Python/試作/2024.md",
     "フォークリフト運行計画表作成確認.md",
@@ -228,7 +229,6 @@
     "daily/2024-01-30.md",
     "daily/2024-01-29.md",
     "daily/2024-01-26.md",
-    "daily/2024-01-24.md",
     "無題のファイル 2.canvas",
     "無題のファイル 1.canvas",
     "時間活用"
