@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff314670f9399d1c",
+        "id": "4fd55fa7fd82837e",
         "type": "tabs",
         "children": [
           {
-            "id": "ef40da1172363411",
+            "id": "e03b08579d282ec5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-10-30.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-30"
+              "title": "新規タブ"
             }
           }
         ]
@@ -112,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-10-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +116,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2024-10-30へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -193,18 +187,21 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "ef40da1172363411",
+  "active": "e03b08579d282ec5",
   "lastOpenFiles": [
+    "Welcome.md",
+    "files/提出物処理状況一覧ｷｬﾌﾟﾁｬ.png",
+    "読書/あなたはあなたの使っている言葉で出来ている.md",
+    "読書/あなたはあなたの使っている言葉で出来ている(目次抜粋).md",
+    "作業記録/SV2FAP1.md",
+    "template/daily.md",
     "daily/2024-10-30.md",
     "daily/2024-10-29.md",
-    "2024-10-11.md",
-    "2024-08-08.md",
+    "daily/2024-10-11 1.md",
+    "daily/2024-08-08.md",
     "daily/2024-10-28.md",
-    "template/daily.md",
-    "Welcome.md",
-    "RPA進捗管理.md",
+    "作業記録/RPA進捗管理.md",
     "作業記録/チェックリスト.md",
-    "作業記録/SV2FAP1.md",
     "作業記録/サーバー関係引継ぎ資料まとめ.md",
     "作業記録/ファイルサーバー利用標準化検討.md",
     "作業記録/不具合 ファイルサーバー勝手に再起動.md",
@@ -218,14 +215,10 @@
     "作業記録/RPA新規案件探索.md",
     "作業記録/手順書作成.md",
     "作業記録/RPA説明会企画.md",
-    "pc2f13064/DRIVE_C/Python/試作/2024.md",
-    "Obsidian-サンプル/サンプル mermaid-sequenceDiagram.md",
-    "2024-08-09.md",
     "pc2f13064/DRIVE_C/Python/試作",
     "pc2f13064/DRIVE_C/Python",
     "pc2f13064/DRIVE_C",
     "pc2f13064",
-    "files/提出物処理状況一覧ｷｬﾌﾟﾁｬ.png",
     "files/~$8,ゼロ災ミーティング話合・安全モデルマン活動報告（8月）.docx",
     "files/7,8,ゼロ災ミーティング話合・安全モデルマン活動報告（8月）.docx",
     "無題のファイル.canvas",
