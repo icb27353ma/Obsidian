@@ -4,25 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "4fd55fa7fd82837e",
+        "id": "47ed318a96f43200",
         "type": "tabs",
         "children": [
           {
-            "id": "e03b08579d282ec5",
+            "id": "f13c0081f57e6949",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-10-31.md",
+                "file": "daily/2024-11-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-31"
+              "title": "2024-11-04"
+            }
+          },
+          {
+            "id": "ba256f1da3966ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/貸出状況一覧：蔵書検索システム.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "貸出状況一覧：蔵書検索システム"
+            }
+          },
+          {
+            "id": "019d1adf31e9db01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-10-31.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +153,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2024-10-31へのバックリンク"
+              "title": "conflict-files-obsidian-gitへのバックリンク"
             }
           },
           {
@@ -193,10 +224,14 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "e03b08579d282ec5",
+  "active": "465aa7d110d838c5",
   "lastOpenFiles": [
-    "daily/2024-10-30.md",
+    "Clippings/貸出状況一覧：蔵書検索システム.md",
+    "conflict-files-obsidian-git.md",
+    "daily/2024-11-04.md",
+    "Clippings",
     "daily/2024-10-31.md",
+    "daily/2024-10-30.md",
     "Welcome.md",
     "files/提出物処理状況一覧ｷｬﾌﾟﾁｬ.png",
     "読書/あなたはあなたの使っている言葉で出来ている.md",
@@ -219,9 +254,6 @@
     "作業記録/CAN担当者コード再振り分け検討.md",
     "作業記録/不要ショートカット調査&削除.md",
     "作業記録/業務システム予算残と検収金額.md",
-    "作業記録/RPA新規案件探索.md",
-    "作業記録/手順書作成.md",
-    "作業記録/RPA説明会企画.md",
     "pc2f13064/DRIVE_C/Python/試作",
     "pc2f13064/DRIVE_C/Python",
     "pc2f13064/DRIVE_C",
