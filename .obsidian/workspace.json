@@ -11,10 +11,15 @@
             "id": "660df0c3d50d31e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Welcome"
             }
           }
         ]
@@ -107,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +122,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "Welcomeへのバックリンク"
             }
           },
           {
@@ -199,13 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44fc52c6baa40a5b",
+  "active": "660df0c3d50d31e4",
   "lastOpenFiles": [
+    "Clippings/貸出状況一覧：蔵書検索システム.md",
     "daily/2024-11-04.md",
     "daily/2024-11-03.md",
     "daily/2024-11-02.md",
     "daily/2024-11-01.md",
-    "Clippings/貸出状況一覧：蔵書検索システム.md",
     "conflict-files-obsidian-git.md",
     "Clippings",
     "daily/2024-10-31.md",
