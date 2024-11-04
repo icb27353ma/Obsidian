@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5d6b2c1cac3a9ed",
+        "id": "ac8e30e2c51d2d62",
         "type": "tabs",
         "children": [
           {
-            "id": "d67335b0b947dab7",
+            "id": "660df0c3d50d31e4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,8 +169,19 @@
               "icon": "lucide-archive",
               "title": "すべてのプロパティ"
             }
+          },
+          {
+            "id": "44fc52c6baa40a5b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,16 +195,17 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "markdown-importer:Markdownインポーターを開く": false
+      "markdown-importer:Markdownインポーターを開く": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d67335b0b947dab7",
+  "active": "44fc52c6baa40a5b",
   "lastOpenFiles": [
+    "daily/2024-11-04.md",
     "daily/2024-11-03.md",
     "daily/2024-11-02.md",
     "daily/2024-11-01.md",
     "Clippings/貸出状況一覧：蔵書検索システム.md",
-    "daily/2024-11-04.md",
     "conflict-files-obsidian-git.md",
     "Clippings",
     "daily/2024-10-31.md",
