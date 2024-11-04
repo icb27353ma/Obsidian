@@ -11,10 +11,15 @@
             "id": "d67335b0b947dab7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-11-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2024-11-05"
             }
           }
         ]
@@ -107,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2024-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +122,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "2024-11-05へのバックリンク"
             }
           },
           {
@@ -178,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "canvas:新規キャンバスを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
@@ -189,6 +196,7 @@
   },
   "active": "d67335b0b947dab7",
   "lastOpenFiles": [
+    "daily/2024-11-05.md",
     "daily/2024-11-03.md",
     "daily/2024-11-02.md",
     "daily/2024-11-01.md",
@@ -216,7 +224,6 @@
     "作業記録/セキュリティグループ更新.md",
     "作業記録/離任者のフォルダ削除.md",
     "作業記録/RPA適用業務拡大検討.md",
-    "作業記録/異動する管理職の生開本サーバー利用について.md",
     "pc2f13064/DRIVE_C/Python/試作",
     "pc2f13064/DRIVE_C/Python",
     "pc2f13064/DRIVE_C",
