@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Emacs 上で Git を使おう！ - インゲージ開発者ブログ.md",
-                "mode": "preview",
+                "file": "Clippings/Emacsの最強GitクライアントMagitの使い方.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emacs 上で Git を使おう！ - インゲージ開発者ブログ"
+              "title": "Emacsの最強GitクライアントMagitの使い方"
             }
           }
         ],
@@ -268,8 +268,9 @@
   },
   "active": "64c8aa138cfbdd1f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Clippings/Emacs 上で Git を使おう！ - インゲージ開発者ブログ.md",
+    "Clippings/Emacsの最強GitクライアントMagitの使い方.md",
+    "conflict-files-obsidian-git.md",
     "daily/2024-11-05.md",
     "daily/2024-11-03.md",
     "daily/2024-11-02.md",
@@ -295,7 +296,6 @@
     "作業記録/ファイルサーバー利用標準化検討.md",
     "作業記録/不具合 ファイルサーバー勝手に再起動.md",
     "作業記録/セキュリティグループ更新.md",
-    "作業記録/離任者のフォルダ削除.md",
     "pc2f13064/DRIVE_C/Python/試作",
     "pc2f13064/DRIVE_C/Python",
     "pc2f13064/DRIVE_C",
