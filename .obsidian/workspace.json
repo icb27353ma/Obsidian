@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "47f4a630da465532",
+        "id": "b6a364ea95955cbe",
         "type": "tabs",
         "children": [
           {
-            "id": "f91be9c89d988b14",
+            "id": "ecd60cd82338c4d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/【毎日書評】コミュニケーションは推し活だ。コミュ力を劇的に上げる「ほっこり石を置く」攻略法  ライフハッカー・ジャパン.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "【毎日書評】コミュニケーションは推し活だ。コミュ力を劇的に上げる「ほっこり石を置く」攻略法  ライフハッカー・ジャパン"
+              "title": "新規タブ"
             }
           }
         ]
@@ -205,17 +200,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f91be9c89d988b14",
+  "active": "ecd60cd82338c4d4",
   "lastOpenFiles": [
-    "daily/2024-11-06.md",
     "Clippings/【毎日書評】コミュニケーションは推し活だ。コミュ力を劇的に上げる「ほっこり石を置く」攻略法  ライフハッカー・ジャパン.md",
+    "Clippings/【脱Qiita】元Qiitaガチ勢の私がまとめるエンジニア向け海外サイトまとめ - Qiita.md",
+    "conflict-files-obsidian-git.md",
+    "Clippings/こなゆき.md",
+    "Clippings/GNU Emacs for Windows再入門.md",
+    "Clippings/2025年からを生きるためのEmacs入門.md",
+    "Clippings/2023年のorg-mode活用と今後の抱負.md",
+    "daily/2024-11-06.md",
     "daily/2024-11-05.md",
     "Clippings/Emacs 上で Git を使おう！ - インゲージ開発者ブログ.md",
     "Clippings/膝が痛くても足腰が弱くても、一生ぐんぐん歩けるようになる！筋トレよりもずっと効果的な「たった30秒の体操」.md",
     "Clippings/今すぐ試せて効果絶大。5分で理解する、AI活用3つの基本技 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習.md",
     "Clippings/学んだことは「即実践」して「誰かに話す」——あなたの学びを加速させる、たった二つの方法 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習.md",
     "Clippings/Emacsの最強GitクライアントMagitの使い方.md",
-    "conflict-files-obsidian-git.md",
     "daily/2024-11-03.md",
     "daily/2024-11-02.md",
     "daily/2024-11-01.md",
@@ -230,11 +230,6 @@
     "読書/あなたはあなたの使っている言葉で出来ている(目次抜粋).md",
     "作業記録/SV2FAP1.md",
     "template/daily.md",
-    "daily/2024-10-29.md",
-    "daily/2024-10-11 1.md",
-    "daily/2024-08-08.md",
-    "daily/2024-10-28.md",
-    "作業記録/RPA進捗管理.md",
     "pc2f13064/DRIVE_C/Python/試作",
     "pc2f13064/DRIVE_C/Python",
     "pc2f13064/DRIVE_C",
