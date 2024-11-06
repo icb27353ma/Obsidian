@@ -11,10 +11,15 @@
             "id": "7b900b6621e4367d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/先輩社員がどうやって不具合を解決しているのか - Qiita.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "先輩社員がどうやって不具合を解決しているのか - Qiita"
             }
           }
         ]
@@ -200,8 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44fc52c6baa40a5b",
+  "active": "7b900b6621e4367d",
   "lastOpenFiles": [
+    "Clippings/【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる - Qiita.md",
+    "Clippings/先輩社員がどうやって不具合を解決しているのか - Qiita.md",
+    "daily/2024-11-06.md",
     "Clippings/2023年のorg-mode活用と今後の抱負.md",
     "Clippings/こなゆき.md",
     "Clippings/GNU Emacs for Windows再入門.md",
@@ -227,9 +235,6 @@
     "daily/2024-08-08.md",
     "daily/2024-10-28.md",
     "作業記録/RPA進捗管理.md",
-    "作業記録/チェックリスト.md",
-    "作業記録/サーバー関係引継ぎ資料まとめ.md",
-    "作業記録/ファイルサーバー利用標準化検討.md",
     "pc2f13064/DRIVE_C/Python/試作",
     "pc2f13064/DRIVE_C/Python",
     "pc2f13064/DRIVE_C",
