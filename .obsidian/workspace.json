@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da0d7e38af28954c",
+        "id": "b6a364ea95955cbe",
         "type": "tabs",
         "children": [
           {
-            "id": "7b900b6621e4367d",
+            "id": "ecd60cd82338c4d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "daily/2024-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Welcomeへのバックリンク"
+              "title": "2024-11-05へのバックリンク"
             }
           },
           {
@@ -177,7 +177,7 @@
             }
           },
           {
-            "id": "44fc52c6baa40a5b",
+            "id": "6fbf68cb73d87dc1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -205,36 +205,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b900b6621e4367d",
+  "active": "ecd60cd82338c4d4",
   "lastOpenFiles": [
-    "Clippings/【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる - Qiita.md",
-    "Clippings/先輩社員がどうやって不具合を解決しているのか - Qiita.md",
-    "daily/2024-11-06.md",
-    "Clippings/2023年のorg-mode活用と今後の抱負.md",
+    "Clippings/【毎日書評】コミュニケーションは推し活だ。コミュ力を劇的に上げる「ほっこり石を置く」攻略法  ライフハッカー・ジャパン.md",
+    "Clippings/【脱Qiita】元Qiitaガチ勢の私がまとめるエンジニア向け海外サイトまとめ - Qiita.md",
+    "conflict-files-obsidian-git.md",
     "Clippings/こなゆき.md",
     "Clippings/GNU Emacs for Windows再入門.md",
-    "daily/2024-11-05.md",
     "Clippings/2025年からを生きるためのEmacs入門.md",
-    "Welcome.md",
-    "Clippings/貸出状況一覧：蔵書検索システム.md",
-    "daily/2024-11-04.md",
+    "Clippings/2023年のorg-mode活用と今後の抱負.md",
+    "daily/2024-11-06.md",
+    "daily/2024-11-05.md",
+    "Clippings/Emacs 上で Git を使おう！ - インゲージ開発者ブログ.md",
+    "Clippings/膝が痛くても足腰が弱くても、一生ぐんぐん歩けるようになる！筋トレよりもずっと効果的な「たった30秒の体操」.md",
+    "Clippings/今すぐ試せて効果絶大。5分で理解する、AI活用3つの基本技 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習.md",
+    "Clippings/学んだことは「即実践」して「誰かに話す」——あなたの学びを加速させる、たった二つの方法 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習.md",
+    "Clippings/Emacsの最強GitクライアントMagitの使い方.md",
     "daily/2024-11-03.md",
     "daily/2024-11-02.md",
     "daily/2024-11-01.md",
-    "conflict-files-obsidian-git.md",
+    "Clippings/貸出状況一覧：蔵書検索システム.md",
+    "daily/2024-11-04.md",
     "Clippings",
     "daily/2024-10-31.md",
     "daily/2024-10-30.md",
+    "Welcome.md",
     "files/提出物処理状況一覧ｷｬﾌﾟﾁｬ.png",
     "読書/あなたはあなたの使っている言葉で出来ている.md",
     "読書/あなたはあなたの使っている言葉で出来ている(目次抜粋).md",
     "作業記録/SV2FAP1.md",
     "template/daily.md",
-    "daily/2024-10-29.md",
-    "daily/2024-10-11 1.md",
-    "daily/2024-08-08.md",
-    "daily/2024-10-28.md",
-    "作業記録/RPA進捗管理.md",
     "pc2f13064/DRIVE_C/Python/試作",
     "pc2f13064/DRIVE_C/Python",
     "pc2f13064/DRIVE_C",
