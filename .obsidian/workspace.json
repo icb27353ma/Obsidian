@@ -36,9 +36,22 @@
               "icon": "lucide-file",
               "title": "2024-11-11"
             }
+          },
+          {
+            "id": "ab8f3874eddae39f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "daily/2024-11-10.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (2024-11-10)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,14 +234,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbbc217197d0cb21",
+  "active": "6fbf68cb73d87dc1",
   "lastOpenFiles": [
-    "Clippings/偏差値30台から東大合格！勉強の達人が教える 「4つのムダな時間」とは？.md",
+    "conflict-files-obsidian-git.md",
     "daily/2024-11-11.md",
+    "daily/2024-11-10.md",
+    "Clippings/偏差値30台から東大合格！勉強の達人が教える 「4つのムダな時間」とは？.md",
     "daily/2024-11-08.md",
     "Clippings/【フローチャートつき】あなたの学習スタイルで選ぶ最強記憶術｜効果実証済み5選 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習.md",
     "Clippings/Termuxでgitとgithubを使う - MYmemo.md",
-    "conflict-files-obsidian-git.md",
     "Clippings/Androidスマホでコードを書く環境を用意するin2023夏.md",
     "Clippings/先輩社員がどうやって不具合を解決しているのか - Qiita.md",
     "Clippings/【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる - Qiita.md",
@@ -248,7 +262,6 @@
     "daily/2024-11-03.md",
     "daily/2024-11-02.md",
     "daily/2024-11-01.md",
-    "Clippings/貸出状況一覧：蔵書検索システム.md",
     "Clippings",
     "files/提出物処理状況一覧ｷｬﾌﾟﾁｬ.png",
     "pc2f13064/DRIVE_C/Python/試作",
