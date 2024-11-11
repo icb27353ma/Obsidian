@@ -41,13 +41,15 @@
             "id": "ab8f3874eddae39f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "daily/2024-11-10.md",
-                "staged": true
+                "file": "Clippings/【チェックリストつき】仕事の質が上がる『メタ認知』、あなたは意識できていますか？ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (2024-11-10)"
+              "icon": "lucide-file",
+              "title": "【チェックリストつき】仕事の質が上がる『メタ認知』、あなたは意識できていますか？ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習"
             }
           }
         ],
@@ -234,12 +236,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fbf68cb73d87dc1",
+  "active": "ab8f3874eddae39f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "daily/2024-11-11.md",
     "daily/2024-11-10.md",
+    "Clippings/【チェックリストつき】仕事の質が上がる『メタ認知』、あなたは意識できていますか？ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習.md",
     "Clippings/偏差値30台から東大合格！勉強の達人が教える 「4つのムダな時間」とは？.md",
+    "conflict-files-obsidian-git.md",
     "daily/2024-11-08.md",
     "Clippings/【フローチャートつき】あなたの学習スタイルで選ぶ最強記憶術｜効果実証済み5選 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習.md",
     "Clippings/Termuxでgitとgithubを使う - MYmemo.md",
@@ -261,7 +264,6 @@
     "Clippings/Emacsの最強GitクライアントMagitの使い方.md",
     "daily/2024-11-03.md",
     "daily/2024-11-02.md",
-    "daily/2024-11-01.md",
     "Clippings",
     "files/提出物処理状況一覧ｷｬﾌﾟﾁｬ.png",
     "pc2f13064/DRIVE_C/Python/試作",
