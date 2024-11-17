@@ -16,6 +16,21 @@
               "icon": "lucide-file",
               "title": "新規タブ"
             }
+          },
+          {
+            "id": "bbbc217197d0cb21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-11-16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-16"
+            }
           }
         ]
       }
@@ -202,14 +217,8 @@
   },
   "active": "aed3486559d2f5b7",
   "lastOpenFiles": [
-    "Clippings/結局「適度な運動量」って？具体的なトレーニング例とあわせて紹介  ライフハッカー・ジャパン.md",
-    "Clippings/これだけはできてほしいgitとGitHub - Qiita.md",
-    "Clippings/「順番通りやる」の落とし穴 - 私がイテレーティブ開発に惚れた理由 - Qiita.md",
-    "Clippings/生産性を飛躍的に向上させる！？個人的に使ってみたいAIツール5選 - Qiita.md",
-    "Clippings/【最新版】フロントエンドを学べる最高の教材集 - Qiita.md",
-    "daily/2024-11-16.md",
-    "daily/2024-11-17.md",
     "template/daily.md",
+    "daily/2024-11-16.md",
     "daily/2024-11-10.md",
     "template/読書記録.md",
     "template/ルール作成.md",
@@ -228,6 +237,12 @@
     "Clippings/【毎日書評】コミュニケーションは推し活だ。コミュ力を劇的に上げる「ほっこり石を置く」攻略法  ライフハッカー・ジャパン.md",
     "Clippings/【脱Qiita】元Qiitaガチ勢の私がまとめるエンジニア向け海外サイトまとめ - Qiita.md",
     "Clippings/こなゆき.md",
+    "Clippings/GNU Emacs for Windows再入門.md",
+    "Clippings/2025年からを生きるためのEmacs入門.md",
+    "Clippings/2023年のorg-mode活用と今後の抱負.md",
+    "daily/2024-11-05.md",
+    "Clippings/Emacs 上で Git を使おう！ - インゲージ開発者ブログ.md",
+    "Clippings/膝が痛くても足腰が弱くても、一生ぐんぐん歩けるようになる！筋トレよりもずっと効果的な「たった30秒の体操」.md",
     "Clippings",
     "files/提出物処理状況一覧ｷｬﾌﾟﾁｬ.png",
     "pc2f13064/DRIVE_C/Python/試作",
