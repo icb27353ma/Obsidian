@@ -3,5 +3,6 @@
   "translucency": false,
   "theme": "system",
   "accentColor": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "Cascadia Code"
 }
