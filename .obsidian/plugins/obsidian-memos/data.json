@@ -21,7 +21,7 @@
   "ShowTaskLabel": true,
   "AppendDateWhenTaskDone": false,
   "MobileAndDesktop": "All",
-  "OpenMemosAutomatically": true,
+  "OpenMemosAutomatically": false,
   "ShowScrollbar": false,
   "ShowTime": true,
   "ShowDate": true,
